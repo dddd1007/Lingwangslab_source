@@ -7,20 +7,26 @@
 ## 实验室计算资源
 ### 设备访问地址
 服务器: 192.168.1.150
+
 工作站: 192.168.1.30
+
 存储器: 已挂载在服务器 /Data2 路径
 
 ### 计算软件
 Jupyterhub: 192.168.1.30:8000
-RStudio server: 
+
+RStudio server: initing...
+
 Matlab: 借助X11在服务器或工作站上均可访问
 
 ### 已配置环境
 #### 工作站
 系统: Ubuntu 18.04 LTS
+
 软件源:
 - 清华开源Ubuntu源
 - Neurodebian源
+
 开发环境:
 - Anaconda3
 - Matlab 2018b
