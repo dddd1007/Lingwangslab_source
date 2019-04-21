@@ -27,9 +27,9 @@ Matlab: 借助X11在服务器或工作站上均可访问
 - 清华开源Ubuntu源
 - Neurodebian源
 
-开发环境:
-- Anaconda3
-- Matlab 2018b
-- R (集成在Anaconda3环境中)
+开发环境: 
+
+- Anaconda 2019.3
+- Intel Distribute Python
 
 
