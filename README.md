@@ -4,6 +4,11 @@
 
 使用资源中出现问题，请询问夏骁凯或提交issue
 
+## 实验室学习资源
+
+组会PPT：/Data/Learning/Group_Meeting
+专业书籍：/Data/Learning/Books
+
 ## 实验室计算资源
 ### 设备访问地址
 服务器: 192.168.1.150
